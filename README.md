@@ -5,7 +5,7 @@
     cd flowable_admin
 
 #### Step 2:
-    Ask the person who sent you here to give you the `.env` file
+Ask the person who sent you here to give you the `.env` file
     
 #### Sep 3:
     alias dc=docker-compose
